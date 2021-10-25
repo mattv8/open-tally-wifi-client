@@ -1,0 +1,7 @@
+# Ignore:
+*.asm.*
+*.prt.*
+
+# Then, don't ignore:
+!*.asm
+!*.prt
